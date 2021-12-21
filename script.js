@@ -32,8 +32,9 @@ firstName = "Petya";
 console.log(firstName);
 
 // example 1 math
-var potatoes = 105, tomatoes = 35;
+var potatoes = 5, tomatoes = 3;
 var vegetables = potatoes + tomatoes;
 console.log(vegetables);
 
 var result = vegetables \ 2;
+console.log(result)
